@@ -55,7 +55,7 @@ Want me to go with this? Or would you like to:
 | KPI report, analytics summary, dashboard | STYLE-10 (Dashboard Report) |
 | Photo portfolio, design lookbook, gallery | STYLE-11 (Portfolio / Gallery) |
 | Indie zine, event program, retro brand | STYLE-12 (Retro / Vintage) |
-| Generic / unclear | STYLE-05 (default) |
+| Generic / unclear | STYLE-02 (default) |
 
 **If NONE of the 12 styles fit the user's content**, generate a **custom style** on the fly:
 
